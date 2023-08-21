@@ -1,0 +1,13 @@
+C:\Users\86150\source\repos\ForestMan\ForestMan\bin\Debug\ForestMan.exe.config
+C:\Users\86150\source\repos\ForestMan\ForestMan\bin\Debug\ForestMan.exe
+C:\Users\86150\source\repos\ForestMan\ForestMan\bin\Debug\ForestMan.pdb
+C:\Users\86150\source\repos\ForestMan\ForestMan\obj\Debug\ForestMan.csproj.AssemblyReference.cache
+C:\Users\86150\source\repos\ForestMan\ForestMan\obj\Debug\ForestMan.csproj.SuggestedBindingRedirects.cache
+C:\Users\86150\source\repos\ForestMan\ForestMan\obj\Debug\ForestMan.Properties.Resources.resources
+C:\Users\86150\source\repos\ForestMan\ForestMan\obj\Debug\ForestMan.csproj.GenerateResource.cache
+C:\Users\86150\source\repos\ForestMan\ForestMan\obj\Debug\ForestMan.csproj.CoreCompileInputs.cache
+C:\Users\86150\source\repos\ForestMan\ForestMan\obj\Debug\ForestMan.exe
+C:\Users\86150\source\repos\ForestMan\ForestMan\obj\Debug\ForestMan.pdb
+C:\Users\86150\source\repos\ForestMan\ForestMan\obj\Debug\ForestMan.Entry.resources
+C:\Users\86150\source\repos\ForestMan\ForestMan\obj\Debug\ForestMan.frmAboutMe.resources
+C:\Users\86150\source\repos\ForestMan\ForestMan\obj\Debug\ForestMan.frmMain.resources
